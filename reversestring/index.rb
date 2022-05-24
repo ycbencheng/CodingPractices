@@ -16,6 +16,6 @@ class Index
   end
 
   def solution3(str)
-
+    str.chars.reduce { |x, y| y + x }
   end
 end
