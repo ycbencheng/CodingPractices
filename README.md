@@ -17,7 +17,7 @@ Challenges Complete
 - [ ] matrix
 - [ ] maxchar
 - [ ] midpoint
-- [ ] palindrome
+- [x] palindrome
 - [ ] pyramid
 - [ ] qfroms
 - [ ] queue
