@@ -21,7 +21,7 @@ Challenges Complete
 - [ ] pyramid
 - [ ] qfroms
 - [ ] queue
-- [ ] reverseint
+- [x] reverseint
 - [x] reversestring
 - [ ] sorting
 - [ ] stack
