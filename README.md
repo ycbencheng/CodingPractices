@@ -15,7 +15,7 @@ Challenges Complete
 - [ ] levelwidth
 - [ ] linkedlist
 - [ ] matrix
-- [ ] maxchar
+- [x] maxchar
 - [ ] midpoint
 - [x] palindrome
 - [ ] pyramid
